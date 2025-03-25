@@ -14,7 +14,7 @@ This project is part of a **Düzce University master's course** on **Data Mining
 
 
 ### 📌 Repositories
-- **Python Implementation:** [Thyroid Recurrence (Python)]([https://github.com/your-python-repo-link](https://github.com/kerem-alba/tyroid_ml_project))  
+- **Python Implementation:** [Thyroid Recurrence (Python)](https://github.com/kerem-alba/tyroid_ml_project)
 
 ---
 *This study was conducted as part of a master's level **Data Mining** course at **Düzce University**.*
